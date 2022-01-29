@@ -1,0 +1,7 @@
+1642877649087	Extract constant 'TRIM_MAX_LENGTH'
+1642914310393	Extract method 'createOrderBody'
+1642914761745	Rename method 'getBaseUri'
+1642914992210	Delete element
+1642916187590	Move compilation unit
+1642916426932	Delete element
+1642916465271	Copy compilation unit

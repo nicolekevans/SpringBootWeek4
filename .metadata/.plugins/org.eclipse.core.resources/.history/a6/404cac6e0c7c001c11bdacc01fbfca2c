@@ -1,0 +1,13 @@
+/**
+ * 
+ */
+package com.promineotech.jeep.controller.support;
+
+/**
+ * @author nicoleevans
+ *
+ */
+
+public class CreateOrderTestSupport extends BaseTest{
+
+}
